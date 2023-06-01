@@ -1,0 +1,6 @@
+twisted
+names
+SpeechRecognition
+pynput
+pymysql
+openai
