@@ -1,6 +1,5 @@
-# Using-confusion_matrix
-#### 혼동 행렬(Confusion matrix)을 시각화해 검증
-<hr>
+# Chat_program
+본 코드는 채팅 프로그램이며, 키보드·음성·GPT 채팅이 가능합니다.
 
 ### 결과
 채팅 중 ..
