@@ -19,3 +19,5 @@
 ![image](https://github.com/chanheehi/Using-confusion_matrix/assets/101696330/66289e9d-a0a3-4137-9a03-10473f397ad2)
 
 위와 같은 UI를 적용할 예정
+## 추가적으로
+본 코드와 관련한 내용을 [`블로그`](https://blog.naver.com/jc603/223139586897)에서 추가로 확인할 수 있습니다.
